@@ -1,0 +1,10 @@
+a4af4393d073d6f2a98ebd06af811f51 *DESCRIPTION
+74e4deed90b8eb39df888c490941f497 *NAMESPACE
+3476b49a1c3c7423549fbee516fe7729 *R/clpm_final.R
+f186098cef02fb6498f36a931aa96422 *man/clpm-internal.Rd
+172bdc1bdc5a5ca022e9515f728e5c28 *man/clpm-package.Rd
+f0556a23aac2a4fc8dd4dd1453f593b7 *man/clpm.Rd
+2fe20ff9b8dbfe3a0c5a43043456d158 *man/clpm.control.Rd
+7c309d83f7d8bfb51f6b0754c1fd76c6 *man/predict.clpm.Rd
+5ad545f9d7d82a158431acd47353c971 *man/summary.clpm.Rd
+2dc8649a577947e19ae0efb7ea1c4db8 *man/vcov.clpm.Rd
